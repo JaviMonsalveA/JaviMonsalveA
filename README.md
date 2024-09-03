@@ -4,7 +4,8 @@
 <br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
+<br>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Sobre mi ....***
 
 - 🌱 Atualmente estoy aprendiendo a programar en Python.
 
@@ -22,7 +23,8 @@
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Lenguajes y Herramientas:***
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap" width="40" height="40" /></a> <a href="https://www.w3schools.com/css/" target="_blank"
@@ -33,3 +35,9 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> </a>
 <br>
+
+
+
+
+
+
