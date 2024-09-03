@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Mi nombre es Javiera Monsalve </h1>
-<h3 align="center">Estudiante Trainee de programacion Full Stack en Python </h3> :blue_book:
+<h3 align="center"> :blue_book: Estudiante Trainee de programacion Full Stack en Python </h3> 
 <h5 aling="center"> Mi entusiasmo por la programación, junto con mi dedicación para seguir creciendo y perfeccionando mis habilidades, me convierten en un candidato
 ideal para contribuir con ideas frescas y soluciones innovadoras a su equipo. Estoy listo para poner en práctica mis conocimientos y aprender 
 junto a profesionales experimentados, aportando desde el primer día. </h5>
@@ -24,7 +24,9 @@ junto a profesionales experimentados, aportando desde el primer día. </h5>
 </p>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Mis Proyectos:
+<br>
  :computer: https://javimonsalvea.github.io/viajes-chile/
+ <br>
  :computer: https://javimonsalvea.github.io/suricata/
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Lenguajes y Herramientas:***
