@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Mi nombre es Javiera Monsalve </h1>
-<h3 align="center">Estudiante Trainee de programacion Full Stack en Python.:blue_book:</h3>
+<h3 align="center">Estudiante Trainee de programacion Full Stack en Python </h3> :blue_book:
 <h5 aling="center"> Mi entusiasmo por la programación, junto con mi dedicación para seguir creciendo y perfeccionando mis habilidades, me convierten en un candidato
 ideal para contribuir con ideas frescas y soluciones innovadoras a su equipo. Estoy listo para poner en práctica mis conocimientos y aprender 
 junto a profesionales experimentados, aportando desde el primer día. </h5>
@@ -16,7 +16,6 @@ junto a profesionales experimentados, aportando desde el primer día. </h5>
 - :envelope: Puedes contactarme a **javimonarredondo@gmail.com**
 
 
-<br>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Redes sociales:
 <p align="left">
   <a href="https://www.linkedin.com/in/javiera-monsalve-arredondo-b85120327/" target="blank"><img align="center"
@@ -24,10 +23,9 @@ junto a profesionales experimentados, aportando desde el primer día. </h5>
       alt="javiera" piheight="30" width="40" /></a>
 </p>
 
-<br>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Mis Proyectos:
-
-<br>
+ :computer: https://javimonsalvea.github.io/viajes-chile/
+ :computer: https://javimonsalvea.github.io/suricata/
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Lenguajes y Herramientas:***
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
